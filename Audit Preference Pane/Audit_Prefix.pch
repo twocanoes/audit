@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'BSM' target in the 'BSM' project.
+//
+
+#ifdef __OBJC__
+#import <AppKit/AppKit.h>
+
+    #import <Foundation/Foundation.h>
+#endif

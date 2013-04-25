@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Audit Reader' target in the 'Audit Reader' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
